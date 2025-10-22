@@ -3,42 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36518.9 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_Header", "1_Header", "{C8D5274F-AC00-46C7-1F8D-E88E81087A52}"
-	ProjectSection(SolutionItems) = preProject
-		common.h = common.h
-		func_f.c = func_f.c
-		func_g.c = func_g.c
-		main.c = main.c
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2_Limits", "2_Limits", "{7BB2ACFB-32B4-47E6-BC00-C73605A0D4DD}"
-	ProjectSection(SolutionItems) = preProject
-		float_limits.c = float_limits.c
-		int_limits.c = int_limits.c
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3_Variable", "3_Variable", "{F4D8F351-BDE9-416F-AF28-A416230F5903}"
-	ProjectSection(SolutionItems) = preProject
-		global_var.c = global_var.c
-		local_var.c = local_var.c
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4_Printf", "4_Printf", "{CE9502F0-077F-46EC-A969-850C23131AAD}"
-	ProjectSection(SolutionItems) = preProject
-		format_example.c = format_example.c
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "솔루션 항목", "솔루션 항목", "{2A3A057F-5D22-31FD-628C-DF5EF75AEF1E}"
-	ProjectSection(SolutionItems) = preProject
-		.gitignore = .gitignore
-		README.md = README.md
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {03A15B24-1497-453D-8B52-A5D8C3B6FDEE}
+		SolutionGuid = {BE883186-597E-49B0-9CD6-971EAC06271B}
 	EndGlobalSection
 EndGlobal
