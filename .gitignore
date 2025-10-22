@@ -1,0 +1,19 @@
+# Visual Studio 관련
+.vs/
+*.user
+*.filters
+*.vcxproj.user
+
+# 빌드 결과물
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.pdb
+*.ilk
+*.obj
+
+# 임시 파일
+*.tmp
+*.log
